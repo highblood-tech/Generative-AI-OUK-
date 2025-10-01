@@ -11,11 +11,12 @@
 <h3>Major scenaries in Kenya</h3>
 
 <h4>Maasai Mara National Reserve </h4><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0"
-                                        <p> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" 
-                                             in reality and real time</p>
-<h4>Mount Kenya </h4><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=">
+                                        <p> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the                                                        fittest" in reality and real time</p>
+<h4>Mount Kenya </h4><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=>
+<p> The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</p>
 
 <h4>Diani Beach</h4><img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg">
+<p>The sandy beaches, the cool ocean breeze, the cool water and the sunny sun just  gives one a very refreshing feeling during your vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods. </p>
 
 <h4>Amboseli National Park</h4><img src="https://reservations.kws.go.ke/uploads/0000/1/2021/12/25/amboseli-np-582x393-1.jpg">
 
