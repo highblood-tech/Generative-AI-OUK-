@@ -25,4 +25,5 @@
 <h4>Samburu National Park</h4><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4uWsL32CD93IY6-BdHYv9oGmpIEHPpBlpQ&s">
 
 <h4>Nairobi National Park</h4><img src="https://www.maasaimarakenyapark.com/wp-content/uploads/2019/08/Nairobi-National-Park-700x450.jpg">
+<P>Apart from the vast cultures in the city like the matwana culture and the hustle and bustle of the city, one can enjoy the breeze and the beauty from the wildlife at the Nairobi National Park. A shared scenery of the city's skyscrapers and the wild.</P>
 
