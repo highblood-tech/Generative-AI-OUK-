@@ -9,7 +9,7 @@
 <h3>Major scenaries in Kenya</h3>
 <p>.Maasai Mara National Reserve </p>
 <p>.Mount Kenya </p>
-<p>.Diani Beach</p>
+<p>.Diani Beach</p><img><img scr="https://www.google.com/search?vsrid=CMWM4YyD9vTsaBACGAEiJGFiZGNkOGY5LTA5NmMtNDQxZi04YmE5LWQ0NjM5ZDNjZjc5ZTIGIgJlaCgOOOOr7buhgpAD&vsint=CAIqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEKwCGKgBJQAAgD8&udm=26&lns_mode=un&source=lns.web.gisivli&vsdim=300,168&gsessionid=Q_VoWZvWcyy8ci7op232Z20PonvlR1co0abhzPuJqTyTTnZtl8c8_Q&lsessionid=NLLyEDpCXc9o6dtW_q74xUmFqstyMq3CV2yyFmyZQ3JNXJqKkZkUag&lns_surface=19&authuser=0&lns_vfs=e&qsubts=1759296306829&biw=1536&bih=776&ved=0CBYQh6cGahcKEwiQ18u5oYKQAxUAAAAAHQAAAAAQBA&tbnid=VV4P0ikYoprQDM&ictx=2"/>
 <p>Amboseli National Park</p>
 <p>.Lake Nakuru</p>
 <p>.Lake Naivasha</p>
