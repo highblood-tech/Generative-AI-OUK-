@@ -1,4 +1,6 @@
-<
+<body style="background-image="https://africancentre.org/AfC2/wp-content/uploads/2024/12/How-can-we-overcome-the-technical-obstacles-when-using-IoT-for-wildlife-conservation-1.png" ;background-size: cover; background-position: center; background-repeat: no-repeat;">
+  <!-- Your page content here -->
+</body>
 <h1>Project J</h1>
 
 <h2>Introduction to Project J </h2>
