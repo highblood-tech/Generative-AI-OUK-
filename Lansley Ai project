@@ -1,7 +1,25 @@
-import =
-<h1>Project Lansley</h1>
 
-<p> Generative Ai created by Highblood</p>
-greeting= 'hello'
-greetings='hello'
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Project Lansley - Generative AI Starter</title>
+</head>
+<body>
+    <h1>Project Lansley</h1>
+    <p>Generative AI created by Highblood</p>
+    <textarea id="prompt" rows="4" cols="50" placeholder="Enter your prompt here..."></textarea>
+    <button onclick="generate()">Generate</button>
+    <div id="output"></div>
+
+</body>
+<script>
+    function generate() {
+        const prompt = document.getElementById('prompt').value;
+        // Simulate AI generation (replace with real AI API call)
+        const output = `AI Response to: "${prompt}"`;
+        document.getElementById('output').innerText = output;
+    }
+</script>
+</html>
 
