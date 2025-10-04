@@ -1,21 +1,32 @@
-<body style="background-image="https://africancentre.org/AfC2/wp-content/uploads/2024/12/How-can-we-overcome-the-technical-obstacles-when-using-IoT-for-wildlife-conservation-1.png" ;background-size: cover; background-position: center; background-repeat: no-repeat;">
-  <!-- Your page content here -->
-</body>
-<h1>Project J</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<h2>Introduction to Project J </h2>
+<title>Project J</title>
+</head>
+<body>
+  <main>
+   <h1>Project J</h1>
+   <section>
+    <h2>Introduction to Project J </h2>
 <p> Project J is a platform where one can look up any of the scenaries in Kenya  </p>
 <p>It is also a platform where one is able to analyze data regarding the wildlife in Kenya</p>
-
+</section>
 <h2>Mission of Project J</h2>
 <P>To ensure easy access to information of a crucial tourist site in Africa</P>
 
-<h3>Major scenaries in Kenya</h3>
+<h3> <em>Major scenaries in Kenya</em> </h3>
 
-<h4>Maasai Mara National Reserve </h4><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0"
-                                        <p> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the                                                        fittest" in reality and real time</p>
-<h4>Mount Kenya </h4><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=">
-<p> The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</p>
+<h4>Maasai Mara National Reserve </h4>
+<figure>
+<a href="https://Project J.com"><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0" <figcaption> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" in reality and real time/<figcaption>
+</figure>
+
+<h4>Mount Kenya </h4>
+<figure>
+<a href="https://Project J.com"><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=" alt="a picture of Mt Kenya's peak">
+<figcaption>The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</figcaption>
+</figure>
 
 <h4>Diani Beach</h4><img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg">
 <p>The sandy beaches, the cool ocean breeze, the cool water and the sunny sun just  gives one a very refreshing feeling during your vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods. </p>
