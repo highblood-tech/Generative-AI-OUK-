@@ -1,47 +1,109 @@
 <!DOCTYPE html>
-
 <html lang="en">
-  
 <head>
-<meta charset="utf-8">  
+  <meta charset="utf-8">
   <title>Project J</title>
 </head>
 <body>
   <main>
-   <h1>Project J</h1>
-   <section>
-    <h2>Introduction to Project J </h2>
-<p> Project J is a platform where one can look up any of the scenaries in Kenya  </p>
-<p>It is also a platform where one is able to analyze data regarding the wildlife in Kenya</p>
-</section>
-<h2>Mission of Project J</h2>
-<P>To ensure easy access to information of a crucial tourist site in Africa</P>
+    <h1>Project J</h1>
+    <section>
+      <h2>Introduction to Project J</h2>
+      <p>
+        Project J is a platform where one can look up any of the sceneries in Kenya.
+      </p>
+      <p>
+        It is also a platform where one is able to analyze data regarding the wildlife in Kenya.
+      </p>
+    </section>
+    <section>
+      <h2>Mission of Project J</h2>
+      <p>
+        To ensure easy access to information of a crucial tourist site in Africa.
+      </p>
+    </section>
+    <section>
+      <h3><em>Major sceneries in Kenya</em></h3>
+      
+      <h4>Maasai Mara National Reserve</h4>
+      <figure>
+        <a href="https://www.maasaimara.com">
+          <img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0" alt="Maasai Mara National Reserve">
+          Maasai Mara
+        </a>
+        <figcaption>
+          The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" in reality and real time.
+        </figcaption>
+      </figure>
 
-<h3> <em>Major scenaries in Kenya</em> </h3>
+      <h4>Mount Kenya</h4>
+      <figure>
+        <a href="https://www.mountkenya.org">
+          <img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=" alt="Mount Kenya">
+          Mt Kenya
+        </a>
+        <figcaption>
+          The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation create a scenery that makes tourists never want to leave.
+        </figcaption>
+      </figure>
 
-<h4>Maasai Mara National Reserve </h4>
-<figure>
-<a href="https://Project J.com"><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0">Maasai mara</a> <p> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" in reality and real time<figcaption>
-</p>
-<h4>Mount Kenya </h4>
-<figure>
-<a href="https://Project J.com"><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=" alt="a picture of Mt Kenya's peak">Mt Kenya</a><p>The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</p>
-</figure>
-<h4>Diani Beach</h4>
-  <a href="https://Project J.com"><img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg">
-     Diani beach</a>
-      <figcaption>The sandy beaches, the cool ocean breeze, the cool water and the sunny sun just  gives one a very refreshing feeling during your vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods. </figcaption>
-</figure>
+      <h4>Diani Beach</h4>
+      <figure>
+        <a href="https://www.dianibeach.com">
+          <img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg" alt="Diani Beach">
+          Diani Beach
+        </a>
+        <figcaption>
+          The sandy beaches, the cool ocean breeze, the refreshing water and the sunny sun give one a rejuvenating feeling during vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods.
+        </figcaption>
+      </figure>
 
-<h4>Amboseli National Park</h4><img src="https://reservations.kws.go.ke/uploads/0000/1/2021/12/25/amboseli-np-582x393-1.jpg">
-<p>All the way toward the Tanzanian border lies a diamond in the rough, Amboseli National Park. A perfect view of Mt Kilimanjaro and a vast number of wild animals. The locals (maasai) known for their astonishing and amusing culture entertain the tourists that decide to pay a visit to their proud homeland and tourists even get a chance to grasp the fascination of the maasai culture.</p>
+      <h4>Amboseli National Park</h4>
+      <figure>
+        <a href="https://www.amboselinationalpark.org">
+          <img src="https://reservations.kws.go.ke/uploads/0000/1/2021/12/25/amboseli-np-582x393-1.jpg" alt="Amboseli National Park">
+          Amboseli National Park
+        </a>
+        <figcaption>
+          All the way toward the Tanzanian border lies a diamond in the rough, Amboseli National Park. A perfect view of Mt Kilimanjaro and a vast number of wild animals. The locals (Maasai), known for their astonishing and amusing culture, entertain tourists that pay a visit to their proud homeland. Tourists even get a chance to grasp the fascination of the Maasai culture.
+        </figcaption>
+      </figure>
 
-<h4>Lake Nakuru</h4><img src="https://www.aberdarenationalparks.com/wp-content/uploads/2023/03/lake-nakuru-national-park-750x400.jpg">
+      <h4>Lake Nakuru</h4>
+      <figure>
+        <a href="https://www.lakenakurunationalpark.com">
+          <img src="https://www.aberdarenationalparks.com/wp-content/uploads/2023/03/lake-nakuru-national-park-750x400.jpg" alt="Lake Nakuru">
+          Lake Nakuru
+        </a>
+      </figure>
 
-<h4>Lake Naivasha</h4><img src="https://www.maasaimarakenyapark.com/wp-content/uploads/2022/11/flamingos-lakes-great-rift-valley-1.jpg">
+      <h4>Lake Naivasha</h4>
+      <figure>
+        <a href="https://www.lakenaivasha.co.ke">
+          <img src="https://www.maasaimarakenyapark.com/wp-content/uploads/2022/11/flamingos-lakes-great-rift-valley-1.jpg" alt="Lake Naivasha">
+          Lake Naivasha
+        </a>
+      </figure>
 
-<h4>Samburu National Park</h4><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4uWsL32CD93IY6-BdHYv9oGmpIEHPpBlpQ&s">
+      <h4>Samburu National Park</h4>
+      <figure>
+        <a href="https://www.samburunationalreserve.com">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg4uWsL32CD93IY6-BdHYv9oGmpIEHPpBlpQ&s" alt="Samburu National Park">
+          Samburu National Park
+        </a>
+      </figure>
 
-<h4>Nairobi National Park</h4><img src="https://www.maasaimarakenyapark.com/wp-content/uploads/2019/08/Nairobi-National-Park-700x450.jpg">
-<p>Apart from the vast cultures in the city like the matwana culture and the hustle and bustle of the city, one can enjoy the breeze and the beauty from the wildlife at the Nairobi National Park. A shared scenery of the city's skyscrapers and the wild.</p>
+      <h4>Nairobi National Park</h4>
+      <figure>
+        <a href="https://www.nairobinationalparkkenya.com">
+          <img src="https://www.maasaimarakenyapark.com/wp-content/uploads/2019/08/Nairobi-National-Park-700x450.jpg" alt="Nairobi National Park">
+          Nairobi National Park
+        </a>
+        <figcaption>
+          Apart from the vast cultures in the city like the matwana culture and the hustle and bustle of the city, one can enjoy the breeze and the beauty from the wildlife at the Nairobi National Park. A shared scenery of the city's skyscrapers and the wild.
+        </figcaption>
+      </figure>
+    </section>
+  </main>
+</body>
 </html>
