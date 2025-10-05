@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
 
-<title>Project J</title>
+<html lang="en">
+  
+<head>
+<meta charset="utf-8">  
+  <title>Project J</title>
 </head>
 <body>
   <main>
@@ -19,17 +21,17 @@
 
 <h4>Maasai Mara National Reserve </h4>
 <figure>
-<a href="https://Project J.com"><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0" <figcaption> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" in reality and real time/<figcaption>
-</figure>
-
+<a href="https://Project J.com"><img src="https://yellowzebrasafaris.com/media/26612/_copyright_beverly_joubert_mara_wildlife_kenya_5255.jpg?width=2048&height=1024&format=jpg&v=1da5e14f51fa6a0">Maasai mara</a> <p> The eye of one of the largest migration of wildlife in the world and the best demonstration of "Survival for the fittest" in reality and real time<figcaption>
+</p>
 <h4>Mount Kenya </h4>
 <figure>
-<a href="https://Project J.com"><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=" alt="a picture of Mt Kenya's peak">
-<figcaption>The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</figcaption>
+<a href="https://Project J.com"><img src="https://media.istockphoto.com/id/515161366/photo/sunrise-behind-mt-kenya.jpg?s=612x612&w=0&k=20&c=HholJet9EY-s9c4Fst7iF8TetXVvuUNHoUp5DnHZV_M=" alt="a picture of Mt Kenya's peak">Mt Kenya</a><p>The snowy slopes of Mount Kenya make it a lovable hiking track for all mountain climbers. The rocky layout and the vegetation make a scenery that makes tourists to never leave.</p>
 </figure>
-
-<h4>Diani Beach</h4><img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg">
-<p>The sandy beaches, the cool ocean breeze, the cool water and the sunny sun just  gives one a very refreshing feeling during your vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods. </p>
+<h4>Diani Beach</h4>
+  <a href="https://Project J.com"><img src="https://www.tailormadeafrica.com/wp-content/uploads/Coast-Meets-Country-Extend-Your-Kenya-Safari-with-Beach-Bliss-960x720.jpg">
+     Diani beach</a>
+      <figcaption>The sandy beaches, the cool ocean breeze, the cool water and the sunny sun just  gives one a very refreshing feeling during your vacation. Don't forget the vast culture of the Mijikenda tribe and the coastal foods. </figcaption>
+</figure>
 
 <h4>Amboseli National Park</h4><img src="https://reservations.kws.go.ke/uploads/0000/1/2021/12/25/amboseli-np-582x393-1.jpg">
 <p>All the way toward the Tanzanian border lies a diamond in the rough, Amboseli National Park. A perfect view of Mt Kilimanjaro and a vast number of wild animals. The locals (maasai) known for their astonishing and amusing culture entertain the tourists that decide to pay a visit to their proud homeland and tourists even get a chance to grasp the fascination of the maasai culture.</p>
